@@ -12,7 +12,7 @@ img:
     - src: "assets/images/school_2.jpg"
       caption: caption 2
     - src: "assets/images/museum_2.jpg"
-      caption: caption 2
+      caption: caption 3
 layout: work
 ---
 
